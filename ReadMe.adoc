@@ -1,5 +1,5 @@
-:Author: automax_robotics
-:Email:
+:Author: Ninad Lokhande
+:Email: lokhandeninad1010@gmail.com
 :Date: 05/01/2026
 :Revision: version#
 :License: Public Domain
